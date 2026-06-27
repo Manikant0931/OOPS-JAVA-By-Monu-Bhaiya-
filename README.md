@@ -1,4 +1,4 @@
-# Java OOP Learning Project
+# Java OOP's
 
 A hands-on Java project covering core Object-Oriented Programming concepts, Data Structures, and Design Patterns — organized into focused modules for step-by-step learning.
 
