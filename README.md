@@ -12,7 +12,6 @@ A hands-on Java project covering core Object-Oriented Programming concepts, Data
 ├── oops_basic/                # Basic OOP fundamentals
 ├── oops_constructor/          # Constructors in Java
 ├── oops_inheritance/          # Inheritance concepts
-└── DEScription.md             # Module-level notes
 ```
 
 ---
